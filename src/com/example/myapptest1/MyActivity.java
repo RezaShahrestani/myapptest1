@@ -18,4 +18,10 @@ public class MyActivity extends Activity {
         s++;
         s--;
     }
+
+    public void starter(){
+        int x = 12;
+        x++;
+        
+    }
 }
